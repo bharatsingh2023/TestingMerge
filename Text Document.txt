@@ -1,7 +1,9 @@
 1.ThisIsFirstLineWithNoSpace
-
+..WildCard Entry..
 2.ThisISSecondLine WithSpace
 
 3.Added NewData new Line..
 
 4.Added NewData new Line of 4th ...
+
+5.Added NewData new LIne of 5th..
